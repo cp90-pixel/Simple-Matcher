@@ -14,7 +14,7 @@ Drop it into a backend, adjust a few weights, and let the sparks fly.
 ## Quick start
 
 bash
-git clone https://github.com/your-org/simple-matcher.git
+git clone https://github.com/cp90-pixel/Simple-Matcher.git
 cd simple-matcher
 python simple_matcher.py
 
