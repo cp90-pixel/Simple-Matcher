@@ -1,24 +1,23 @@
 # Simple-Matcher
-````markdown
-# Simple Matcher
+improve this md. # Simple Matcher
 
 A laser-focused, no-fluff dating-app matching engine in under 150 lines of pure Python.  
 Drop it into a backend, adjust a few weights, and let the sparks fly.
 
 ## Why you might like it
 
-* Zero external dependencies. Runs on anything that speaks Python 3.10+.
-* Clear, hackable scoring logic. All the knobs live at the top of one file.
-* Hard filters for deal-breakers, soft scoring for chemistry.
-* Built-in demo so you can try it right away.
+- Zero external dependencies. Runs on anything that speaks Python 3.10+.
+- Clear, hackable scoring logic. All the knobs live at the top of one file.
+- Hard filters for deal-breakers, soft scoring for chemistry.
+- Built-in demo so you can try it right away.
 
 ## Quick start
 
-```bash
+bash
 git clone https://github.com/your-org/simple-matcher.git
 cd simple-matcher
 python simple_matcher.py
-````
+
 
 You’ll see matches ranked for a tiny sample crowd. Swap in real profiles by creating `User` objects and handing a list to `make_matches`.
 
